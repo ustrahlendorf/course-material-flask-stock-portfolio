@@ -24,7 +24,7 @@ instance/logs/
 htmlcov/
 
 # Virtual Environment
-/venv/
+/.venv/
 
 # pytest files
 .pytest_cache/
