@@ -87,3 +87,6 @@ def add_stock():
             print(e)
 
         return render_template('add_stock.html')
+
+#----------------------------------------------------------------------------    
+#Sessions in Flask
